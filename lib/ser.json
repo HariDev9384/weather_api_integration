@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 80.2785,
+        "lat": 13.0878
+    },
+    "weather": [
+        {
+            "id": 721,
+            "main": "Haze",
+            "description": "haze",
+            "icon": "50n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 301.46,
+        "feels_like": 304.14,
+        "temp_min": 301.14,
+        "temp_max": 301.46,
+        "pressure": 1015,
+        "humidity": 68
+    },
+    "visibility": 5000,
+    "wind": {
+        "speed": 5.14,
+        "deg": 70,
+        "gust": 10.29
+    },
+    "clouds": {
+        "all": 40
+    },
+    "dt": 1646403228,
+    "sys": {
+        "type": 2,
+        "id": 2012809,
+        "country": "IN",
+        "sunrise": 1646355212,
+        "sunset": 1646398090
+    },
+    "timezone": 19800,
+    "id": 1264527,
+    "name": "Chennai",
+    "cod": 200
+}
